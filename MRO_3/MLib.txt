@@ -1,0 +1,9 @@
+# Pros
+- sa scala docsy
+- część sparka => popularne, dużo informacji
+- tutoriale online 
+- scala
+- github z przykładami, przykłady są swieże
+
+#Cons
+- wrażliwe na wersje scali 
